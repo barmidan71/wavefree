@@ -4,41 +4,22 @@
   "name": "Subwave Free",
   "locations": [
     {
-      "id": "0da0b2e0c7c10cdc",
-      "name": "Беларусь 1",
-      "country": "BY",
+      "id": "new-igareck-5",
+      "name": "Австралия 1",
+      "country": "AU",
       "source": {
         "type": "subscription",
-        "name": "Subzio"
+        "name": "igareck"
       },
       "connection": {
-        "uri": "vless://8cef7621-c6f0-486e-b51d-59c30c5b0b25@95.128.71.79:10444?security=reality&type=tcp&packetEncoding=xudp&sni=ads.x5.ru&fp=safari&flow=xtls-rprx-vision&sid=8debcf36f1cc69ff&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&encryption=none#%F0%9F%87%A7%F0%9F%87%BE%20Belarus%20%28%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%29%20%7C%20%F0%9F%87%A7%F0%9F%87%BE%20Belarus%20%28%D0%B2%D1%8B%D1%85%D0%BE%D0%B4%2095.128.71.79%29%20%7C%20%40RaViraNet%20t.me%2Frjsxrd"
+        "uri": "vless://debafe5b-6760-4b00-b0b2-ee30cbf769f0@ujp.xn--ghqu5fm27b67w.com:443?encryption=none&security=tls&sni=portland-wins-robbie-skirt.trycloudflare.com&type=ws&host=portland-wins-robbie-skirt.trycloudflare.com&path=%2Fe0843c8ad581&fp=edge#%F0%9F%87%A6%F0%9F%87%BA%20Australia%2C%20Sydney%20%7C%20%5BBL%5D"
       },
       "check": {
         "status": "reachable",
-        "checkedAt": "2026-11-15T08:34:30Z",
-        "httpsLatencyMs": 835,
-        "downloadMbps": 5.47,
-        "exitCountry": "BY"
-      }
-    },
-    {
-      "id": "85afc98f53722606",
-      "name": "Великобритания 1",
-      "country": "GB",
-      "source": {
-        "type": "subscription",
-        "name": "Subzio"
-      },
-      "connection": {
-        "uri": "vless://0083a0f5-4418-44c2-a9ec-6dce0c26fb94@212.69.135.70:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=uk-room05.filesnap.tech&fp=chrome&pbk=FdZlh9FC4ay9OGnKG6K_iNqhz1I3tWDfNZhxrDYuQl8&sid=7da3ba09a037e956&type=tcp&headerType=none#%E5%9C%9F%E8%80%B3%E5%85%B6_110719029%20t.me%2Frjsxrd"
-      },
-      "check": {
-        "status": "reachable",
-        "checkedAt": "2026-11-15T08:34:37Z",
-        "httpsLatencyMs": 577,
-        "downloadMbps": 6.06,
-        "exitCountry": "GB"
+        "checkedAt": "2026-11-15T12:40:05Z",
+        "httpsLatencyMs": 1058,
+        "downloadMbps": 5.93,
+        "exitCountry": "AU"
       }
     },
     {
@@ -53,106 +34,11 @@
         "uri": "vless://555b35c4-30f9-40c6-a61a-7f53ab1bea45@13.143.176.250:443?&security=reality&flow=xtls-rprx-vision&pbk=kBTMVLCNE0jjwuJF6H5-65l5Pe0QToS0Hg-9Tmaa7Sk&sid=1a2b3c4d&fp=firefox&sni=images.porsche.com&type=tcp&headerType=none&host=images.porsche.com&path=%2F#%F0%9F%87%AA%F0%9F%87%AA%20%E7%88%B1%E6%B2%99%E5%B0%BC%E4%BA%9A%20%7C%20EST%20t.me%2Frjsxrd"
       },
       "check": {
-        "status": "reachable",
-        "checkedAt": "2026-11-15T08:35:41Z",
-        "httpsLatencyMs": 2361,
-        "downloadMbps": 12.46,
-        "exitCountry": "EE"
-      }
-    },
-    {
-      "id": "ca5676837b55c20d",
-      "name": "Швеция 1",
-      "country": "SE",
-      "source": {
-        "type": "subscription",
-        "name": "Subzio"
-      },
-      "connection": {
-        "uri": "vless://b2fe1fa4-6a79-4938-a3f4-63b54ae7f16b@138.124.86.230:48115?type=grpc&security=tls&fp=firefox&sni=138-124-86-230.sslip.io&mode=gun&serviceName=138-124-86-230-sslip-io#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%28%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%29%20%7C%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%28%D0%B2%D1%8B%D1%85%D0%BE%D0%B4%20138.124.86.230%29%20%7C%20%40RaViraNet%20t.me%2Frjsxrd"
-      },
-      "check": {
-        "status": "reachable",
-        "checkedAt": "2026-11-15T08:35:49Z",
-        "httpsLatencyMs": 415,
-        "downloadMbps": 7.16,
-        "exitCountry": "SE"
-      }
-    },
-    {
-      "id": "0f995bc752e4b2d9",
-      "name": "Нидерланды 1",
-      "country": "NL",
-      "source": {
-        "type": "subscription",
-        "name": "Subzio"
-      },
-      "connection": {
-        "uri": "vless://555b35c4-30f9-40c6-a61a-7f53ab1bea45@89.248.65.152:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=images.porsche.com&pbk=kBTMVLCNE0jjwuJF6H5-65l5Pe0QToS0Hg-9Tmaa7Sk&sid=1a2b3c4d&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TG%3A%20%40HardVpn_robot%20t.me%2Frjsxrd"
-      },
-      "check": {
-        "status": "reachable",
-        "checkedAt": "2026-11-15T08:35:56Z",
-        "httpsLatencyMs": 885,
-        "downloadMbps": 8.83,
-        "exitCountry": "NL"
-      }
-    },
-    {
-      "id": "9a1b2a3b8817984f",
-      "name": "Россия 1",
-      "country": "RU",
-      "source": {
-        "type": "subscription",
-        "name": "Subzio"
-      },
-      "connection": {
-        "uri": "vless://38308ff1-5aa9-494f-a25a-0f2870d56b3e@vps3.nemnogogo.com:443?sni=vps3.nemnogogo.com&alpn=h2&type=grpc&serviceName=mobile.api.Event&fp=firefox&security=tls#🇷🇺 Join+Telegram:@SolVPN 🇷🇺%20t.me%2Frjsxrd"
-      },
-      "check": {
-        "status": "reachable",
-        "checkedAt": "2026-11-15T08:37:30Z",
-        "httpsLatencyMs": 518,
-        "downloadMbps": 8.05,
-        "exitCountry": "RU"
-      }
-    },
-    {
-      "id": "989736852c8a8cdc",
-      "name": "Россия 2",
-      "country": "RU",
-      "source": {
-        "type": "subscription",
-        "name": "Subzio"
-      },
-      "connection": {
-        "uri": "vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@ru7e2bab87cc39.eu-cdn539.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ru7e2bab87cc39.eu-cdn539.com&fp=firefox&pbk=lews1n_fypGexd_dMofEO4Vy1ULsFeVIFa90MMY3pm4&sid=3992cc7fb9fcbe58&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA_%E4%BF%84%E7%BD%97%E6%96%AF%20%287%29%20t.me%2Frjsxrd"
-      },
-      "check": {
-        "status": "reachable",
-        "checkedAt": "2026-11-15T08:37:39Z",
-        "httpsLatencyMs": 5660,
-        "downloadMbps": 17.33,
-        "exitCountry": "RU"
-      }
-    },
-    {
-      "id": "71a9f4e9896e37c0",
-      "name": "Нидерланды 2",
-      "country": "NL",
-      "source": {
-        "type": "subscription",
-        "name": "aviamastersgh"
-      },
-      "connection": {
-        "uri": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.80:23576?encryption=none&flow=xtls-rprx-vision&fp=&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ANL"
-      },
-      "check": {
-        "status": "reachable",
-        "checkedAt": "2026-11-15T08:39:04Z",
-        "httpsLatencyMs": 582,
-        "downloadMbps": 23.0,
-        "exitCountry": "NL"
+        "status": "unreachable",
+        "checkedAt": "2026-11-15T12:41:53.863798Z",
+        "httpsLatencyMs": null,
+        "downloadMbps": null,
+        "exitCountry": null
       }
     },
     {
@@ -168,86 +54,48 @@
       },
       "check": {
         "status": "reachable",
-        "checkedAt": "2026-11-15T08:39:51Z",
-        "httpsLatencyMs": 663,
-        "downloadMbps": 20.97,
+        "checkedAt": "2026-11-15T12:38:09Z",
+        "httpsLatencyMs": 682,
+        "downloadMbps": 21.0,
         "exitCountry": "FI"
       }
     },
     {
-      "id": "12452003b6f09a24",
-      "name": "Финляндия 2",
-      "country": "FI",
+      "id": "ca5676837b55c20d",
+      "name": "Швеция 1",
+      "country": "SE",
       "source": {
         "type": "subscription",
-        "name": "igareck"
+        "name": "Subzio"
       },
       "connection": {
-        "uri": "vless://2e69b088-6ef3-417f-8247-125cf257fafd@108.156.65.62:443?security=tls&sni=d1ivx1xk58pr8u.cloudfront.net&type=xhttp&host=d1ivx1xk58pr8u.cloudfront.net&path=%2Fcf&fp=firefox#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%7C%20%5BBL%5D"
+        "uri": "vless://b2fe1fa4-6a79-4938-a3f4-63b54ae7f16b@138.124.86.230:48115?type=grpc&security=tls&fp=firefox&sni=138-124-86-230.sslip.io&mode=gun&serviceName=138-124-86-230-sslip-io#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%28%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%29%20%7C%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%28%D0%B2%D1%8B%D1%85%D0%BE%D0%B4%20138.124.86.230%29%20%7C%20%40RaViraNet%20t.me%2Frjsxrd"
       },
       "check": {
         "status": "reachable",
-        "checkedAt": "2026-11-15T08:39:52Z",
-        "httpsLatencyMs": 674,
-        "downloadMbps": 22.25,
-        "exitCountry": "FI"
+        "checkedAt": "2026-11-15T12:32:56Z",
+        "httpsLatencyMs": 393,
+        "downloadMbps": 8.32,
+        "exitCountry": "SE"
       }
     },
     {
-      "id": "e1db0c94fddc28b2",
-      "name": "Финляндия 3",
-      "country": "FI",
+      "id": "new-igareck-3",
+      "name": "Сингапур 1",
+      "country": "SG",
       "source": {
         "type": "subscription",
         "name": "igareck"
       },
       "connection": {
-        "uri": "vless://2e69b088-6ef3-417f-8247-125cf257fafd@108.156.65.62:443?security=tls&sni=d1ivx1xk58pr8u.cloudfront.net&type=xhttp&host=d1ivx1xk58pr8u.cloudfront.net&path=%2Fcf&fp=ios#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%7C%20%5BBL%5D"
+        "uri": "vless://efd11a89-7506-44ce-95b6-6654859f155b@170.114.45.6:2096?host=pcloud.z-tas.com&security=tls&sni=pcloud.z-tas.com&type=ws&fp=chrome#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5BBL%5D"
       },
       "check": {
         "status": "reachable",
-        "checkedAt": "2026-11-15T08:40:02Z",
-        "httpsLatencyMs": 666,
-        "downloadMbps": 27.5,
-        "exitCountry": "FI"
-      }
-    },
-    {
-      "id": "4b97a1fd566a384c",
-      "name": "Германия 1",
-      "country": "DE",
-      "source": {
-        "type": "subscription",
-        "name": "igareck"
-      },
-      "connection": {
-        "uri": "vless://555b35c4-30f9-40c6-a61a-7f53ab1bea45@5.175.211.246:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=images.porsche.com&pbk=kBTMVLCNE0jjwuJF6H5-65l5Pe0QToS0Hg-9Tmaa7Sk&sid=1a2b3c4d&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Berlin%20%7C%20%5BBL%5D"
-      },
-      "check": {
-        "status": "reachable",
-        "checkedAt": "2026-11-15T08:40:28Z",
-        "httpsLatencyMs": 1689,
-        "downloadMbps": 21.6,
-        "exitCountry": "DE"
-      }
-    },
-    {
-      "id": "24e946bbf5c29e97",
-      "name": "Германия 2",
-      "country": "DE",
-      "source": {
-        "type": "subscription",
-        "name": "igareck"
-      },
-      "connection": {
-        "uri": "vless://2e69b088-6ef3-417f-8247-125cf257fafd@3.174.189.0:443?type=xhttp&security=tls&fp=edge&sni=d1b9pmaut2v26v.cloudfront.net&path=/cf&host=d1b9pmaut2v26v.cloudfront.net&mode=auto&fragment=3-3,0-1,tlshello,null&fm={\"tcp\":[{\"settings\":{\"delay\":\"0-1\",\"length\":\"3-3\",\"packets\":\"tlshello\"},\"type\":\"fragment\"}]}#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Nuremberg%20%7C%20%5BBL%5D"
-      },
-      "check": {
-        "status": "reachable",
-        "checkedAt": "2026-11-15T08:40:50Z",
-        "httpsLatencyMs": 1271,
-        "downloadMbps": 6.24,
-        "exitCountry": "DE"
+        "checkedAt": "2026-11-15T12:39:55Z",
+        "httpsLatencyMs": 1138,
+        "downloadMbps": 5.01,
+        "exitCountry": "SG"
       }
     }
   ]
